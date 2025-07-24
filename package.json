@@ -30,7 +30,7 @@
     "playwright": "^1.45.1",
     "react": "^19",
     "react-dom": "^19",
-    "three": "git+https://github.com/mikeskydev/three.js.git#feat/webxr-camera-access",
+    "three": "git+https://github.com/mikeskydev/three.js.git#cam-access-build",
     "typescript": "^5.5.4",
     "vite": "^5.2.11"
   },
