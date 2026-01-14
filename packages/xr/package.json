@@ -32,7 +32,7 @@
   "dependencies": {
     "@iwer/devui": "^1.1.1",
     "@iwer/sem": "~0.2.5",
-    "@pmndrs/pointer-events": "workspace:~",
+    "@pmndrs/pointer-events": "~6.6.20",
     "iwer": "^2.0.1",
     "meshline": "^3.3.1",
     "zustand": "^4.5.2"
